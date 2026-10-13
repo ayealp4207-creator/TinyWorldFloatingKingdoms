@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "A New Beginning",
+  "island": "starter_island",
+  "objectives": [
+    {"type": "collect", "resource": "wood", "amount": 3},
+    {"type": "collect", "resource": "stone", "amount": 3}
+  ],
+  "rewards": {"coins": 25, "xp": 10},
+  "unlock_level": 2
+}
